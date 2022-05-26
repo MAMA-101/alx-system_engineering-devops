@@ -1,1 +1,1 @@
-bring me home
+display current directories and hidde files

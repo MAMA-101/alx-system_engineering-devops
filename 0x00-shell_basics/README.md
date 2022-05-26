@@ -1,1 +1,1 @@
-betty
+#!/bin/bash

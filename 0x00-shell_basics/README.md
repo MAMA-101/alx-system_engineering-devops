@@ -1,1 +1,1 @@
-display current directories and hidde files
+current directory

@@ -1,1 +1,1 @@
-list files and directories separated by comma
+magic file

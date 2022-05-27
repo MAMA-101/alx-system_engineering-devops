@@ -1,1 +1,1 @@
-HTML files
+symbolic link

@@ -1,1 +1,1 @@
-magic file
+betty

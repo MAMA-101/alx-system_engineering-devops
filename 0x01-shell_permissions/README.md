@@ -1,1 +1,1 @@
-new user
+print groups

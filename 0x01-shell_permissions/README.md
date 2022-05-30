@@ -1,1 +1,1 @@
-set mode of file
+change group owner

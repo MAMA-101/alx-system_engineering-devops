@@ -1,1 +1,1 @@
-play StarWars
+#!/bin/bash/

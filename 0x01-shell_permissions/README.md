@@ -1,1 +1,1 @@
-add execute permission
+set mode of file

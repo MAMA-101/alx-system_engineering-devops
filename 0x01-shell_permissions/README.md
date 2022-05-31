@@ -1,1 +1,1 @@
-set mode of file
+file script

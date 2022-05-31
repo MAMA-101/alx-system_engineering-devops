@@ -1,1 +1,1 @@
-file script
+play StarWars
